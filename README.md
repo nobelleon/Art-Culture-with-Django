@@ -1,4 +1,4 @@
-# Art-Culture-with-Django
+# Art-Culture-with-Django 
 
 ## Output
 https://github.com/user-attachments/assets/aaea5f25-5ae7-4447-a324-d380706f129b
